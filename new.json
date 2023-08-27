@@ -1,1 +1,7 @@
-git add new.json
+{
+"firstName": Anna,
+"lastName": Mugu,
+"age": 25 y.o,
+"numerOfPets": 2,
+"desiredSalary": 250.000 dollars
+}
