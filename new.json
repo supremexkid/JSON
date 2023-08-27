@@ -1,7 +1,8 @@
 {
-"firstName": Anna,
-"lastName": Mugu,
-"age": 25 y.o,
+"firstName": "Anna",
+"lastName": "Mugu",
+"age": 25,
 "numerOfPets": 2,
-"desiredSalary": 250.000 dollars
+"desiredSalary": "250.000 $"
 }
+
